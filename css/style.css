@@ -1,0 +1,15 @@
+:root {
+    --color-blue: #009EE3;
+    --color-green: #8CAF90;
+    --color-gray-dark: #434343;
+    --color-gray-light: #FAFAFA;
+}
+
+#navigation {
+    margin-bottom: 24px;
+}
+
+.container {
+    background-color: var(--color-gray-light);
+    border-radius: .5em;
+}
