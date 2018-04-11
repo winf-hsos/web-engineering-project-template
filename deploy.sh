@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Copying files to public..."
-cd /home/ubuntu/workspace/web-engineering-project-template
+cd /home/ubuntu/workspace
 rm -r public/*
 cp -f *.html public
 cp -R css public/css
