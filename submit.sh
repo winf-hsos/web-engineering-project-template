@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Check out repository from Github..."
-cd /home/ubuntu/workspace/web-engineering-project-template.1/
+cd /home/ubuntu/workspace/web-engineering-project-template-test/
 rm -r -f ss2018
 git clone https://github.com/winf-hsos-student/ss2018.git
 
