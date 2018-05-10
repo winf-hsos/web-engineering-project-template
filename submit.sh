@@ -11,7 +11,7 @@ group="$1"
 echo "Check out repository from Github..."
 cd /home/ubuntu/workspace/
 rm -r -f ss2018
-git clone https://winf-hsos-student:studenthsos2018@github.com/winf-hsos-student/ss2018.git
+git clone https://winf-hsos-student:<PASSWORD>@github.com/winf-hsos-student/ss2018.git
 
 # Create if not exists
 mkdir -p ss2018/gruppe0$group
